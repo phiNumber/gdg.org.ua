@@ -47,3 +47,6 @@ log/*.log.*
 .hidden
 bower_components
 .exports
+
+#vagga configs
+.vagga/
